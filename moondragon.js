@@ -1,5 +1,5 @@
 
-var Moondragon = (funtion(window) {
+var Moondragon = (function(window) {
 
 	var _publics = {};
 	var _content1 = 0;
@@ -15,6 +15,7 @@ var Moondragon = (funtion(window) {
 	}
 	
 	_publics.getContent = function() {
+		return forgeContent();
 	}
 	
 
