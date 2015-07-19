@@ -5,3 +5,6 @@ jsfiddle <a href="http://jsfiddle.net/lucianonapoli/cfjhjLc4/">http://jsfiddle.n
 
 
 This is a great book from Addy Osmani <a href="http://addyosmani.com/resources/essentialjsdesignpatterns/book">Learning JavaScript Design Patterns</a>
+
+
+Luciano
