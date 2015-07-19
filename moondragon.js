@@ -2,7 +2,7 @@
 var Moondragon = (funtion(window) {
 
 	var _publics = {};
-	var _content1;
+	var _content1 = 0;
 	
 	
 	function forgeContent() {
