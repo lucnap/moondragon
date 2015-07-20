@@ -6,7 +6,7 @@ Moondragon library has been included via rawgit https://rawgit.com/lucnap/moondr
 
 
 This is a great book from Addy Osmani <a href="http://addyosmani.com/resources/essentialjsdesignpatterns/book">Learning JavaScript Design Patterns</a>
-
+Another great book by Marijn Haverbeke http://eloquentjavascript.net
 
 coded by Luciano Napoli
 
